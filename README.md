@@ -1,2 +1,2 @@
 # CNNs
-A collection of applied of convulational neural network models
+A collection of applied convulational neural network models
